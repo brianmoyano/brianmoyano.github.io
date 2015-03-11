@@ -432,7 +432,7 @@ section {
 }
 
 .header {
-  height: 90px;
+  margin-top: 20px;
   position: fixed;
   width: 100%;
   z-index: 999;
@@ -443,15 +443,10 @@ section {
   height: 31px;
   display: block;
   margin: auto;
-  position: relative;
-  top: 30px;
 }
 
-.red #Triangle-2 {
-  fill: #494949;
-}
-.red #Triangle-1 {
-  fill: #8c8c8c;
+.red {
+  background: red;
 }
 
 #bio {
