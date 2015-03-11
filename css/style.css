@@ -4,7 +4,6 @@
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\000039}}
 html, body {
   font-family: sans-serif;
   /* 1 */
@@ -17,7 +16,6 @@ html, body {
 /**
  * Remove default margin.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\0000319}}
 body {
   margin: 0;
 }
@@ -30,7 +28,6 @@ body {
  * and Firefox.
  * Correct `block` display not defined for `main` in IE 11.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\0000333}}
 article,
 aside,
 details,
@@ -51,7 +48,6 @@ summary {
  * 1. Correct `inline-block` display not defined in IE 8/9.
  * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\0000354}}
 audio,
 canvas,
 progress,
@@ -66,7 +62,6 @@ video {
  * Prevent modern browsers from displaying `audio` without controls.
  * Remove excess height in iOS 5 devices.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\0000367}}
 audio:not([controls]) {
   display: none;
   height: 0;
@@ -76,7 +71,6 @@ audio:not([controls]) {
  * Address `[hidden]` styling not present in IE 8/9/10.
  * Hide the `template` element in IE 8/9/11, Safari, and Firefox < 22.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\0000377}}
 [hidden],
 template {
   display: none;
@@ -87,7 +81,6 @@ template {
 /**
  * Remove the gray background color from active links in IE 10.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\0000389}}
 a {
   background-color: transparent;
 }
@@ -95,7 +88,6 @@ a {
 /**
  * Improve readability when focused and also mouse hovered in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\0000397}}
 a:active,
 a:hover {
   outline: 0;
@@ -106,7 +98,6 @@ a:hover {
 /**
  * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003109}}
 abbr[title] {
   border-bottom: 1px dotted;
 }
@@ -114,7 +105,6 @@ abbr[title] {
 /**
  * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003117}}
 b,
 strong {
   font-weight: bold;
@@ -123,7 +113,6 @@ strong {
 /**
  * Address styling not present in Safari and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003126}}
 dfn {
   font-style: italic;
 }
@@ -132,7 +121,6 @@ dfn {
  * Address variable `h1` font-size and margin within `section` and `article`
  * contexts in Firefox 4+, Safari, and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003135}}
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
@@ -141,7 +129,6 @@ h1 {
 /**
  * Address styling not present in IE 8/9.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003144}}
 mark {
   background: #ff0;
   color: #000;
@@ -150,7 +137,6 @@ mark {
 /**
  * Address inconsistent and variable font size in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003153}}
 small {
   font-size: 80%;
 }
@@ -158,7 +144,6 @@ small {
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003161}}
 sub,
 sup {
   font-size: 75%;
@@ -167,12 +152,10 @@ sup {
   vertical-align: baseline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003169}}
 sup {
   top: -0.5em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003173}}
 sub {
   bottom: -0.25em;
 }
@@ -182,7 +165,6 @@ sub {
 /**
  * Remove border when inside `a` element in IE 8/9/10.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003184}}
 img {
   border: 0;
 }
@@ -190,7 +172,6 @@ img {
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003192}}
 svg:not(:root) {
   overflow: hidden;
 }
@@ -200,7 +181,6 @@ svg:not(:root) {
 /**
  * Address margin not present in IE 8/9 and Safari.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003203}}
 figure {
   margin: 1em 40px;
 }
@@ -208,7 +188,6 @@ figure {
 /**
  * Address differences between Firefox and other browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003211}}
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
@@ -218,7 +197,6 @@ hr {
 /**
  * Contain overflow in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003221}}
 pre {
   overflow: auto;
 }
@@ -226,7 +204,6 @@ pre {
 /**
  * Address odd `em`-unit font size rendering in all browsers.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003229}}
 code,
 kbd,
 pre,
@@ -247,7 +224,6 @@ samp {
  * 2. Correct font properties not being inherited.
  * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003252}}
 button,
 input,
 optgroup,
@@ -264,7 +240,6 @@ textarea {
 /**
  * Address `overflow` set to `hidden` in IE 8/9/10/11.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003266}}
 button {
   overflow: visible;
 }
@@ -275,7 +250,6 @@ button {
  * Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera.
  * Correct `select` style inheritance in Firefox.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003277}}
 button,
 select {
   text-transform: none;
@@ -288,7 +262,6 @@ select {
  * 3. Improve usability and consistency of cursor style between image-type
  *    `input` and others.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003290}}
 button,
 html input[type="button"],
 body input[type="button"],
@@ -303,7 +276,6 @@ input[type="submit"] {
 /**
  * Re-set default cursor for disabled elements.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003302}}
 button[disabled],
 html input[disabled],
 body input[disabled] {
@@ -313,7 +285,6 @@ body input[disabled] {
 /**
  * Remove inner padding and border in Firefox 4+.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003311}}
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
@@ -324,7 +295,6 @@ input::-moz-focus-inner {
  * Address Firefox 4+ setting `line-height` on `input` using `!important` in
  * the UA stylesheet.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003322}}
 input {
   line-height: normal;
 }
@@ -336,7 +306,6 @@ input {
  * 1. Address box sizing set to `content-box` in IE 8/9/10.
  * 2. Remove excess padding in IE 8/9/10.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003334}}
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -350,7 +319,6 @@ input[type="radio"] {
  * `font-size` values of the `input`, it causes the cursor style of the
  * decrement button to change from `default` to `text`.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003346}}
 input[type="number"]::-webkit-inner-spin-button,
 input[type="number"]::-webkit-outer-spin-button {
   height: auto;
@@ -361,7 +329,6 @@ input[type="number"]::-webkit-outer-spin-button {
  * 2. Address `box-sizing` set to `border-box` in Safari and Chrome
  *    (include `-moz` to future-proof).
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003357}}
 input[type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -376,7 +343,6 @@ input[type="search"] {
  * Safari (but not Chrome) clips the cancel button when the search input has
  * padding (and `textfield` appearance).
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003370}}
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
@@ -385,7 +351,6 @@ input[type="search"]::-webkit-search-decoration {
 /**
  * Define consistent border, margin, and padding.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003379}}
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
@@ -396,7 +361,6 @@ fieldset {
  * 1. Correct `color` not being inherited in IE 8/9/10/11.
  * 2. Remove padding so people aren't caught out if they zero out fieldsets.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003390}}
 legend {
   border: 0;
   /* 1 */
@@ -407,7 +371,6 @@ legend {
 /**
  * Remove default vertical scrollbar in IE 8/9/10/11.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003399}}
 textarea {
   overflow: auto;
 }
@@ -416,7 +379,6 @@ textarea {
  * Don't inherit the `font-weight` (applied by a rule above).
  * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003408}}
 optgroup {
   font-weight: bold;
 }
@@ -426,65 +388,54 @@ optgroup {
 /**
  * Remove most spacing between table cells.
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003419}}
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/normalize\.scss}line{font-family:\00003424}}
 td,
 th {
   padding: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/base\.sass}line{font-family:\000031}}
 html, body {
   height: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/base\.sass}line{font-family:\000034}}
 body {
   margin: 0;
   padding: 0;
   -webkit-font-smoothing: antialiased;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/base\.sass}line{font-family:\000038}}
 body font {
   family: "Roboto", sans-serif;
   size: 12px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/base\.sass}line{font-family:\0000313}}
 .wrap {
   max-width: 1080px;
   width: 95%;
   margin: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/base\.sass}line{font-family:\0000318}}
 section {
   height: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/base\.sass}line{font-family:\0000321}}
 .white {
   color: white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\000031}}
 #hero {
   background: url(../img/hero.png) #1c1e21 center bottom;
   background-size: cover;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\000035}}
 .header {
   margin-top: 20px;
   position: fixed;
   width: 100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000310}}
 .header #logo a {
   background: url(../img/logo.svg) no-repeat;
   width: 59px;
@@ -493,7 +444,6 @@ section {
   margin: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000317}}
 #bio {
   width: 500px;
   margin: auto;
@@ -501,28 +451,23 @@ section {
   top: calc(50% - 165px);
   text-align: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000323}}
 #bio #copy1 {
   margin-top: 30px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000325}}
 #bio #copy1 h1 {
   margin: 0;
   font-size: 30px;
   font-weight: 500;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000330}}
 #bio #copy1 h1 span {
   font-weight: 100;
   color: #bdbdbd;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000333}}
 #bio #copy2 {
   color: #b3b3b3;
   font-size: 14px;
   line-height: 18px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000337}}
 #bio #copy2 .aerolab {
   text-decoration: none;
   color: white;
@@ -530,11 +475,9 @@ section {
   -moz-transition: 0.15s;
   transition: 0.15s;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000343}}
 #bio #copy2 .aerolab:hover {
   color: #ff7b01;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000345}}
 #bio #picture {
   background: url(../img/picture.png);
   display: block;
@@ -543,7 +486,6 @@ section {
   margin: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000351}}
 #separator {
   background: url(../img/ampersand.svg) no-repeat center center;
   background-size: contain;
@@ -552,7 +494,6 @@ section {
   display: block;
   margin: 5px auto 15px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000358}}
 #separator::before {
   content: "";
   width: 90px;
@@ -561,7 +502,6 @@ section {
   position: absolute;
   left: 136px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000365}}
 #separator::after {
   content: "";
   width: 90px;
@@ -570,10 +510,3 @@ section {
   position: absolute;
   right: 136px;
 }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/brian\/Documents\/www\/portfolio\/css\/sass\/modules\/hero\.sass}line{font-family:\0000373}}
-.midnightHeader.red {
-  background: red;
-}
-
-/*# sourceMappingURL=style.css.map */
