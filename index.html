@@ -2,9 +2,39 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Brian Moyano</title>
+	<link rel="stylesheet" href="css/style.css">
+	<script src></script>
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,700,500,300' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	Test
+	<div class="header">
+		<div class="wrap">
+			<div id="logo">
+				<a href="#"></a>
+			</div>
+		</div>
+	</div>
+	<section id="hero" class="white">
+		<div id="bio">
+			<div id="picture"></div>
+			<div id="copy1"><h1><span>I'm</span> Brian Moyano</h1></div>
+			<div id="separator"></div>
+			<div id="copy2">I’m a 18 years old boy from Buenos Aires, Argentina<br>UX/UI at <a href="http://aerolab.co" class="aerolab">Aerolab</a></div>
+		</div>
+	</section>
+	<section id="hero2" data-midnight="red">
+		<div class="wrap">
+		</div>
+	</section>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script src="js/midnight.jquery.min.js"></script>
+	<script>
+		// Start midnight
+		$(document).ready(function(){
+		  // Change this to the correct selector.
+		  $('.header').midnight();
+		});
+	</script>
 </body>
 </html>

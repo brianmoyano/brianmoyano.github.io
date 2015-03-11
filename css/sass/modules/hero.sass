@@ -1,0 +1,74 @@
+#hero
+	background: url(../img/hero.png) #1c1e21 center bottom
+	background-size: cover
+
+.header
+	margin-top: 20px
+	position: fixed
+	width: 100%
+	#logo
+		a
+			background: url(../img/logo.svg) no-repeat
+			width: 59px
+			height: 31px
+			display: block
+			margin: auto
+
+#bio
+	width: 500px
+	margin: auto
+	position: relative
+	top: calc(50% - 165px)
+	text-align: center
+	#copy1
+		margin-top: 30px
+		h1
+			margin: 0
+			font:
+				size: 30px
+				weight: 500
+			span
+				font-weight: 100
+				color: #bdbdbd
+	#copy2
+		color: #b3b3b3
+		font-size: 14px
+		line-height: 18px
+		.aerolab
+			text-decoration: none
+			color: #fff
+			-webkit-transition: .15s
+			-moz-transition: .15s
+			transition: .15s
+			&:hover
+				color: #ff7b01
+	#picture
+		background: url(../img/picture.png)
+		display: block
+		width: 122px
+		height: 122px
+		margin: auto
+#separator
+	background: url(../img/ampersand.svg) no-repeat center center
+	background-size: contain
+	width: 15px
+	height: 30px
+	display: block
+	margin: 5px auto 15px
+	&::before
+		content: ""
+		width: 90px
+		height: 16px
+		border-bottom: 1px solid #2b2c2d
+		position: absolute
+		left: 136px
+	&::after
+		content: ""
+		width: 90px
+		height: 16px
+		border-bottom: 1px solid #2b2c2d
+		position: absolute
+		right: 136px
+
+.midnightHeader.red
+	background: red
