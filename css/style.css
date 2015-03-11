@@ -435,6 +435,7 @@ section {
   margin-top: 20px;
   position: fixed;
   width: 100%;
+  z-index: 999;
 }
 .header #logo a {
   background: url(../img/logo.svg) no-repeat;
